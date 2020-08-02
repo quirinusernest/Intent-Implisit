@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intent Implisit</string>
+    <string name="string_nomer_telphone">Masukan Nomer Handphone</string>
+    <string name="string_share_text">SHARE TEXT</string>
+    <string name="string_masukkan_text">Masukan Text</string>
+    <string name="string_open_location">OPEN LOCATION</string>
+    <string name="string_buka_lokasi">Buka Lokasi</string>
+    <string name="string_open_browser">Open Browser</string>
+    <string name="string_masukkan_url">Masukan Url</string>
+    <string name="string_open_nomer">OPEN DIAL PHONE</string>
+</resources>
